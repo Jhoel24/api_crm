@@ -1,0 +1,12 @@
+{
+  "clientes": [
+    {
+      "nombre": "José Moreno",
+      "empresa": "Seguros Universales",
+      "email": "correo@correo.com",
+      "telefono": "566454564",
+      "notas": "",
+      "id": 3
+    }
+  ]
+}
